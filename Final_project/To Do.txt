@@ -1,8 +1,0 @@
-The paper reviews several prior studies using algorithms such as Logistic Regression, Decision Tree, Random Forest, Naïve Bayes, SVM, KNN, and CNN, 
-achieving accuracies between 85%–95%. 
-This study focuses on addressing issues like unbalanced data, limited interpretability, and non-linear relationships among medical features.
-
-Grid Search is a hyperparameter tuning technique used to find the best combination of parameters for a machine learning model.
-
-Grid Search systematically tests all possible combinations of a set of hyperparameter values that you specify,
-evaluates the model for each combination, and selects the one that gives the best performance according to a chosen metric (like accuracy, precision, recall, etc.).
